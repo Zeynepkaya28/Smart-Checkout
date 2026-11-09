@@ -1,0 +1,492 @@
+[
+  {
+    "oiv7_name": "Apple",
+    "tr_name": "Elma",
+    "price": 12,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Banana",
+    "tr_name": "Muz",
+    "price": 15,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Orange",
+    "tr_name": "Portakal",
+    "price": 10,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Lemon",
+    "tr_name": "Limon",
+    "price": 8,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Grapefruit",
+    "tr_name": "Greyfurt",
+    "price": 14,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Pear",
+    "tr_name": "Armut",
+    "price": 12,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Peach",
+    "tr_name": "Şeftali",
+    "price": 14,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Strawberry",
+    "tr_name": "Çilek",
+    "price": 6,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Grape",
+    "tr_name": "Üzüm (salkım)",
+    "price": 45,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Watermelon",
+    "tr_name": "Karpuz",
+    "price": 120,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Cantaloupe",
+    "tr_name": "Kavun",
+    "price": 90,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Winter melon",
+    "tr_name": "Kışlık kavun",
+    "price": 85,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Pineapple",
+    "tr_name": "Ananas",
+    "price": 110,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Mango",
+    "tr_name": "Mango",
+    "price": 60,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Pomegranate",
+    "tr_name": "Nar",
+    "price": 30,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Coconut",
+    "tr_name": "Hindistan cevizi",
+    "price": 70,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Common fig",
+    "tr_name": "İncir",
+    "price": 8,
+    "kdv": 1,
+    "category": "Meyve"
+  },
+  {
+    "oiv7_name": "Tomato",
+    "tr_name": "Domates",
+    "price": 8,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Potato",
+    "tr_name": "Patates",
+    "price": 6,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Carrot",
+    "tr_name": "Havuç",
+    "price": 5,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Cucumber",
+    "tr_name": "Salatalık",
+    "price": 7,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Bell pepper",
+    "tr_name": "Biber",
+    "price": 9,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Broccoli",
+    "tr_name": "Brokoli",
+    "price": 40,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Cabbage",
+    "tr_name": "Lahana",
+    "price": 45,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Zucchini",
+    "tr_name": "Kabak",
+    "price": 12,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Pumpkin",
+    "tr_name": "Bal kabağı",
+    "price": 80,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Mushroom",
+    "tr_name": "Mantar",
+    "price": 6,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Radish",
+    "tr_name": "Turp",
+    "price": 10,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Garden Asparagus",
+    "tr_name": "Kuşkonmaz",
+    "price": 15,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Artichoke",
+    "tr_name": "Enginar",
+    "price": 35,
+    "kdv": 1,
+    "category": "Sebze"
+  },
+  {
+    "oiv7_name": "Bread",
+    "tr_name": "Ekmek",
+    "price": 15,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Bagel",
+    "tr_name": "Simit",
+    "price": 20,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Croissant",
+    "tr_name": "Kruvasan",
+    "price": 45,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Pretzel",
+    "tr_name": "Pretzel",
+    "price": 35,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Muffin",
+    "tr_name": "Muffin",
+    "price": 40,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Doughnut",
+    "tr_name": "Donut",
+    "price": 45,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Cookie",
+    "tr_name": "Kurabiye",
+    "price": 10,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Cake",
+    "tr_name": "Yaş pasta",
+    "price": 250,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Tart",
+    "tr_name": "Tart",
+    "price": 60,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Waffle",
+    "tr_name": "Waffle",
+    "price": 80,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Pancake",
+    "tr_name": "Pankek",
+    "price": 60,
+    "kdv": 1,
+    "category": "Fırın"
+  },
+  {
+    "oiv7_name": "Candy",
+    "tr_name": "Şeker",
+    "price": 5,
+    "kdv": 1,
+    "category": "Atıştırmalık"
+  },
+  {
+    "oiv7_name": "Ice cream",
+    "tr_name": "Dondurma",
+    "price": 40,
+    "kdv": 1,
+    "category": "Atıştırmalık"
+  },
+  {
+    "oiv7_name": "Popcorn",
+    "tr_name": "Patlamış mısır",
+    "price": 30,
+    "kdv": 1,
+    "category": "Atıştırmalık"
+  },
+  {
+    "oiv7_name": "Cheese",
+    "tr_name": "Peynir",
+    "price": 180,
+    "kdv": 1,
+    "category": "Kahvaltılık"
+  },
+  {
+    "oiv7_name": "Egg (Food)",
+    "tr_name": "Yumurta",
+    "price": 6,
+    "kdv": 1,
+    "category": "Kahvaltılık"
+  },
+  {
+    "oiv7_name": "Milk",
+    "tr_name": "Süt",
+    "price": 35,
+    "kdv": 1,
+    "category": "Kahvaltılık"
+  },
+  {
+    "oiv7_name": "Honeycomb",
+    "tr_name": "Petek bal",
+    "price": 400,
+    "kdv": 1,
+    "category": "Kahvaltılık"
+  },
+  {
+    "oiv7_name": "Pasta",
+    "tr_name": "Makarna",
+    "price": 25,
+    "kdv": 1,
+    "category": "Temel gıda"
+  },
+  {
+    "oiv7_name": "Tin can",
+    "tr_name": "Konserve",
+    "price": 55,
+    "kdv": 1,
+    "category": "Temel gıda"
+  },
+  {
+    "oiv7_name": "Coffee",
+    "tr_name": "Kahve",
+    "price": 150,
+    "kdv": 1,
+    "category": "Temel gıda"
+  },
+  {
+    "oiv7_name": "Tea",
+    "tr_name": "Çay",
+    "price": 120,
+    "kdv": 1,
+    "category": "Temel gıda"
+  },
+  {
+    "oiv7_name": "Shrimp",
+    "tr_name": "Karides",
+    "price": 300,
+    "kdv": 1,
+    "category": "Deniz ürünü"
+  },
+  {
+    "oiv7_name": "Juice",
+    "tr_name": "Meyve suyu",
+    "price": 40,
+    "kdv": 1,
+    "category": "İçecek"
+  },
+  {
+    "oiv7_name": "Bottle",
+    "tr_name": "Su (şişe)",
+    "price": 10,
+    "kdv": 1,
+    "category": "İçecek"
+  },
+  {
+    "oiv7_name": "Coffee cup",
+    "tr_name": "Hazır kahve (bardak)",
+    "price": 60,
+    "kdv": 10,
+    "category": "İçecek"
+  },
+  {
+    "oiv7_name": "Beer",
+    "tr_name": "Bira",
+    "price": 70,
+    "kdv": 20,
+    "category": "İçecek"
+  },
+  {
+    "oiv7_name": "Wine",
+    "tr_name": "Şarap",
+    "price": 400,
+    "kdv": 20,
+    "category": "İçecek"
+  },
+  {
+    "oiv7_name": "Sandwich",
+    "tr_name": "Sandviç",
+    "price": 70,
+    "kdv": 10,
+    "category": "Hazır yemek"
+  },
+  {
+    "oiv7_name": "Submarine sandwich",
+    "tr_name": "Uzun sandviç",
+    "price": 90,
+    "kdv": 10,
+    "category": "Hazır yemek"
+  },
+  {
+    "oiv7_name": "Hamburger",
+    "tr_name": "Hamburger",
+    "price": 150,
+    "kdv": 10,
+    "category": "Hazır yemek"
+  },
+  {
+    "oiv7_name": "Hot dog",
+    "tr_name": "Sosisli",
+    "price": 80,
+    "kdv": 10,
+    "category": "Hazır yemek"
+  },
+  {
+    "oiv7_name": "Pizza",
+    "tr_name": "Pizza",
+    "price": 200,
+    "kdv": 10,
+    "category": "Hazır yemek"
+  },
+  {
+    "oiv7_name": "Burrito",
+    "tr_name": "Dürüm",
+    "price": 120,
+    "kdv": 10,
+    "category": "Hazır yemek"
+  },
+  {
+    "oiv7_name": "Sushi",
+    "tr_name": "Suşi",
+    "price": 250,
+    "kdv": 10,
+    "category": "Hazır yemek"
+  },
+  {
+    "oiv7_name": "Salad",
+    "tr_name": "Salata",
+    "price": 90,
+    "kdv": 10,
+    "category": "Hazır yemek"
+  },
+  {
+    "oiv7_name": "Toilet paper",
+    "tr_name": "Tuvalet kağıdı",
+    "price": 150,
+    "kdv": 20,
+    "category": "Temizlik"
+  },
+  {
+    "oiv7_name": "Paper towel",
+    "tr_name": "Kağıt havlu",
+    "price": 100,
+    "kdv": 20,
+    "category": "Temizlik"
+  },
+  {
+    "oiv7_name": "Toothbrush",
+    "tr_name": "Diş fırçası",
+    "price": 50,
+    "kdv": 20,
+    "category": "Kişisel bakım"
+  },
+  {
+    "oiv7_name": "Mug",
+    "tr_name": "Kupa bardak",
+    "price": 80,
+    "kdv": 20,
+    "category": "Ev eşyası"
+  }
+]

@@ -1,0 +1,15 @@
+# ÖNEMLİ: GPU kullanmak için PyTorch'u bu dosyadan ÖNCE CUDA'lı olarak kurun (README'ye bakın).
+# Aksi halde pip, ultralytics ile birlikte CPU sürümünü kurar.
+
+ultralytics>=8.3.0
+opencv-python>=4.9
+streamlit>=1.50
+altair>=5.0
+pandas>=2.0
+pillow>=10.1
+numpy>=1.26
+matplotlib>=3.8      # DejaVuSans fontu buradan alınır (ultralytics zaten kurar)
+reportlab>=4.0
+qrcode[pil]>=7.4
+lap>=0.5.12          # ByteTrack takip modu için
+pytest>=8.0

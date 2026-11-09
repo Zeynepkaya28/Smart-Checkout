@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.pt
+runs/
+fisler/
+sales.csv
+datasets/
+products.json.tmp
+build/
+dist/
